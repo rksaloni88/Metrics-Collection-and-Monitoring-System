@@ -18,8 +18,6 @@ This project implements a simple metrics collection and monitoring system. It ca
 - [Alerting](#alerting)
 - [Visualization](#visualization)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
